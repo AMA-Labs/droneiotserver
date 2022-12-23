@@ -9,3 +9,4 @@ PyYAML==5.4.1
 schedule==1.0.0
 starlette==0.13.6
 uvicorn==0.13.4
+SQLAlchemy==1.4.45
